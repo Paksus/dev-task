@@ -1,0 +1,14 @@
+@import "../../assets/styles/theme";
+
+.checkContent{
+    width: min-content;
+    text-align: center;
+    margin: 25px;
+}
+.checkContent p{
+    padding: 35px;
+    width: max-content;
+}
+.checkContent p,.checkContent button{
+    border-radius: 25px;
+}
